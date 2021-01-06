@@ -1,5 +1,4 @@
-Project. Proxy herd with asyncio
-[131 home > Homework]
+                                                      Project. Proxy herd with asyncio
 
 Background
 Wikipedia and its related sites are based on the Wikimedia server platform, which is based on GNU/Linux, Apache, MariaDB, and PHP+JavaScript, using multiple, redundant web servers behind a load-balancing virtual router and caching proxy servers for reliability and performance. For a more extensive discussion, please see Roan Kattouw, Wikimedia infrastructure, Utrecht LUG 2011.
